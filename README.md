@@ -13,6 +13,9 @@
 <!-- ====================== BADGES SOCIAIS / CONTADOR ====================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=r3nv-dev&label=Profile%20views&color=00b4d8&style=flat-square" alt="profile views" />
+  <a href="https://www.linkedin.com/in/renan-alves-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
   <a href="mailto:r3nv.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-2c5364?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
